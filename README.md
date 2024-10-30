@@ -1,4 +1,4 @@
-### <div align="center">I'm Maxim, a student application developer🏫. Focussing on full-stack💻</div>  
+### <div align="center">I'm Maxim, a student application developer🏫. Focussing on full-stack development💻</div>  
   
 
 <br/>  
